@@ -413,11 +413,11 @@
 </div>
 
 
-
+<div align="center">
 
 ### `07` — CONTRIBUTION MATRIX
 
-<div align="left">
+
   
 <img width="100%" src="https://raw.githubusercontent.com/niladrigope-dev/niladrigope-dev/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
 
