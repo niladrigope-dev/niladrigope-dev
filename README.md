@@ -1,7 +1,3 @@
-<!-- ============================================================
-     NILADRI GOPE | ENGINEERING PROFILE
-     GitHub profile repository: niladrigope-dev/niladrigope-dev
-     ============================================================ -->
 
 <div align="center">
 
@@ -154,7 +150,7 @@
 
 </details>
 
-> Technology logos indicate areas of technical interest and tools in the ecosystem, not a claim of mastery across every technology.
+> Technology logos indicate areas of technical interest and tools in the ecosystem.
 
 ---
 
