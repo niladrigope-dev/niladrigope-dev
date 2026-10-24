@@ -310,28 +310,8 @@
 ---
 
 <div align="center">
-
-### `06` — CONTRIBUTION MATRIX
-
-<img width="100%" src="https://raw.githubusercontent.com/niladrigope-dev/niladrigope-dev/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
-
-<br/><br/>
-
-<a href="https://github.com/niladrigope-dev?tab=repositories">
-  <img src="https://img.shields.io/badge/INSPECT_THE_CODE-020617?style=for-the-badge&logo=github&logoColor=5eead4" alt="Inspect the code"/>
-</a>
-
-<br/><br/>
-
-<sub>ENGINEERED WITH CURIOSITY. GROUNDED IN FUNDAMENTALS.</sub>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020617,50:134e4a,100:020617" alt="Decorative footer"/>
-
-</div>
-
-## `07` ASCII Portrait
+  
+## `06` ASCII Portrait
 
 <details>
 <summary><strong>Click to reveal the ASCII portrait</strong></summary>
@@ -427,3 +407,25 @@
 ```
 
 </details>
+
+### `07` — CONTRIBUTION MATRIX
+
+<img width="100%" src="https://raw.githubusercontent.com/niladrigope-dev/niladrigope-dev/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+
+<br/><br/>
+
+<a href="https://github.com/niladrigope-dev?tab=repositories">
+  <img src="https://img.shields.io/badge/INSPECT_THE_CODE-020617?style=for-the-badge&logo=github&logoColor=5eead4" alt="Inspect the code"/>
+</a>
+
+<br/><br/>
+
+<sub>ENGINEERED WITH CURIOSITY. GROUNDED IN FUNDAMENTALS.</sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020617,50:134e4a,100:020617" alt="Decorative footer"/>
+
+</div>
+
+
