@@ -313,8 +313,8 @@
   
 ## `06` ASCII Portrait
 
-<details>
 
+<summary><strong> ASCII portrait</strong></summary>
 
 ```text
 .:=*##%%%%%%#*+=;-.     -,
@@ -406,7 +406,7 @@
                                    ..,-:;;=++**##%%%%%@@@@@@@@%%%%###**+==;:-,..
 ```
 
-</details>
+
 
 ### `07` — CONTRIBUTION MATRIX
 
