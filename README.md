@@ -88,7 +88,7 @@
 
 </div>
 
-> These logos represent technologies and technical areas relevant to my work and interests; they are not a claim of equal proficiency in every technology.
+> These logos represent technologies and technical areas relevant to my work and interests.
 
 ---
 
