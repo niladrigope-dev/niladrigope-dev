@@ -314,7 +314,7 @@
 ## `06` ASCII Portrait
 
 <details>
-<summary><strong>Click to reveal the ASCII portrait</strong></summary>
+
 
 ```text
 .:=*##%%%%%%#*+=;-.     -,
