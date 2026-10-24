@@ -416,7 +416,7 @@
 
 
 ### `07` — CONTRIBUTION MATRIX
-
+<div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/niladrigope-dev/niladrigope-dev/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
 
 <br/><br/>
@@ -432,7 +432,7 @@
 <br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020617,50:134e4a,100:020617" alt="Decorative footer"/>
-
+</div>
 </div>
 
 
